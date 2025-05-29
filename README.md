@@ -52,7 +52,6 @@ A tool that creates JIRA work items using NLP and transforms them into executive
 
 - **LinkedIn**: [https://www.linkedin.com/in/abdullahsaghirahmad/](https://www.linkedin.com/in/abdullahsaghirahmad/)
 - **Email**: abdullahsaghirahmad@gmail.com
-- **Location**: Toronto, Canada
 
 ---
 

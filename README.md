@@ -10,21 +10,18 @@ Currently, I’m focused on building AI-powered productivity tools and unified p
 ### [JIRA AI Content Generator](https://github.com/abdullahsaghirahmad/AutoAgile)
 **Live Demo:** [https://jira-ai-generator-2m6kkit8w-abdullahs-projects-76ebf38f.vercel.app](https://jira-ai-generator-2m6kkit8w-abdullahs-projects-76ebf38f.vercel.app)
 
-A tool that creates JIRA work items using NLP and transforms them into executive presentation content and newsletters using AI. Built with **Next.js 15**, **TypeScript**, and integrated with **JIRA Cloud API**.
+An intelligent content generation platform that transforms JIRA work items into professional business content using AI. Built with Next.js, TypeScript, and integrated with JIRA Cloud API and AI services.
 
 **Key Features:**
+- End-to-end initiative definition to capability announcement workflow in a single utility
 - Seamless JIRA Cloud integration with smart work item discovery
-- AI-powered content generation for multiple business contexts
-- Executive quarterly presentations with strategic insights
-- Customer webinar content with technical depth
-- Feature newsletters for stakeholder communication
-- Real-time project and quarter filtering
+- AI-powered content generation for multiple business contexts with the LLM of your choice
 
 **Use Cases:**
-- **Product Managers**: Transform epics into executive presentations and customer communications
-- **Engineering Managers**: Create quarterly updates and feature announcements from development work
-- **Engineers**: Generate documentation and stakeholder updates from story implementations
-- **Executive Teams**: Get AI-generated insights from development progress for strategic planning
+- **Product Managers**: Creates Jira work items from natural language and transforms them into executive presentation content and customer communications
+- **Engineering Managers**: Create Jira work items, quarterly updates, and feature announcements from development work
+- **Engineers**: Generate Jira work items, documentation, and stakeholder updates from story implementations
+- **Executive Teams**: Get AI-generated insights from development work for strategic planning
 
 ## Technical Expertise
 

@@ -8,7 +8,7 @@ Currently, I’m focused on building AI-powered productivity tools and unified p
 ## Featured Project
 
 ### [JIRA AI Content Generator](https://github.com/abdullahsaghirahmad/AutoAgile)
-**Live Demo:** [https://jira-ai-generator-2m6kkit8w-abdullahs-projects-76ebf38f.vercel.app](https://jira-ai-generator-2m6kkit8w-abdullahs-projects-76ebf38f.vercel.app)
+**Live Demo:** https://autoagile-phi.vercel.app/
 
 An intelligent content generation platform that transforms JIRA work items into professional business content using AI. Built with Next.js, TypeScript, and integrated with JIRA Cloud API and AI services.
 

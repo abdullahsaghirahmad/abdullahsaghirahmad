@@ -7,7 +7,7 @@ Currently, I’m focused on building AI-powered productivity tools and unified p
 
 ## Featured Project
 
-### [JIRA AI Content Generator](https://github.com/abdullahsaghirahmad/AutoAgile)
+### [AutoAgile](https://github.com/abdullahsaghirahmad/AutoAgile)
 **Live Demo:** https://autoagile-phi.vercel.app/
 
 An intelligent content generation platform that transforms JIRA work items into professional business content using AI. Built with Next.js, TypeScript, and integrated with JIRA Cloud API and AI services.
@@ -18,6 +18,14 @@ An intelligent content generation platform that transforms JIRA work items into 
 - End-to-end initiative definition to capability announcement workflow in a single utility
 - Seamless JIRA Cloud integration with smart work item discovery
 - AI-powered content generation for multiple business contexts with the LLM of your choice
+
+**Key Pillars:**
+- **Workflow Acceleration:** Cut work item creation from 12+ minutes to under 3 minutes
+- **Quality Standardization**: 93% field accuracy without human intervention
+- **Knowledge Democratization**: Enable non-technical stakeholders to create perfect tickets
+- **Enterprise Adaptability**: Dynamic field discovery for any Jira configuration
+- **Context Preservation**: Maintain perfect continuity from discovery to delivery
+- **Security-First Architecture**: Local data storage with no external dependencies
 
 **Use Cases:**
 - **Product Managers**: Creates Jira work items from natural language and transforms them into executive presentation content and customer communications
@@ -41,7 +49,7 @@ An intelligent content generation platform that transforms JIRA work items into 
 
 ## Professional Impact
 
-**At AppDirect (2019-Present)**
+**At AppDirect (2021-Present)**
 - **40x Revenue Growth**: Scaled ARGMV from $1M to $40M through strategic product initiatives
 - **Global Partnerships**: Led integrations with Adobe, Google, and major cloud distributors
 - **Market Expansion**: Drove product strategy across North America, EMEA, and APAC regions

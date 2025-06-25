@@ -12,6 +12,8 @@ Currently, I’m focused on building AI-powered productivity tools and unified p
 
 An intelligent content generation platform that transforms JIRA work items into professional business content using AI. Built with Next.js, TypeScript, and integrated with JIRA Cloud API and AI services.
 
+![AutoAgile in action](https://github.com/abdullahsaghirahmad/AutoAgile/blob/main/public/Hero.gif)
+
 **Key Features:**
 - End-to-end initiative definition to capability announcement workflow in a single utility
 - Seamless JIRA Cloud integration with smart work item discovery

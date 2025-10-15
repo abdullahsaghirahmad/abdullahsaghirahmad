@@ -20,7 +20,7 @@ An experimental web application that caters to the satisfaction of "discovering"
 ### [ChapterOne](https://github.com/abdullahsaghirahmad/ChapterOne)
 **Live Demo:** https://chapterone-theta.vercel.app/
 A full-stack book discovery platform built as a hands-on exercise to learn practical ML and cutting-edge user personalization.
-![ChapterOne in action](https://github.com/abdullahsaghirahmad/AutoAgile/blob/main/ChapterOneHeroGit.gif)
+![ChapterOne in action](https://github.com/abdullahsaghirahmad/ChapterOne/blob/main/ChapterOneHeroGit.gif)
 
 ## Connect With Me
 

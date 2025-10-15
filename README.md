@@ -1,52 +1,26 @@
 # Hi there, I'm Abdullah
 
-**Staff Product Manager @ AppDirect | Subscription Commerce & Analytics**
+**Seasoned Product Manager | Subscription Commerce & Analytics**
 
 I’m a seasoned Product Manager with 6+ years in product management (and 9+ years in tech overall), building scalable B2B and B2B2C platforms and launching impactful products across subscription commerce, integrations, analytics, and retail. With a background in engineering and management, I specialize in turning complex needs into intuitive, high-leverage solutions.
 Currently, I’m focused on building AI-powered productivity tools and unified platform capabilities that simplify partner operations, surface data-driven insights, and deepen user engagement.
 
-## Featured Project
+## Featured Projects
 
 ### [AutoAgile](https://github.com/abdullahsaghirahmad/AutoAgile)
 **Live Demo:** https://autoagile-phi.vercel.app/
-
 An intelligent content generation platform that transforms JIRA work items into professional business content using AI. Built with Next.js, TypeScript, and integrated with JIRA Cloud API and AI services.
-
 ![AutoAgile in action](https://github.com/abdullahsaghirahmad/AutoAgile/blob/main/public/Hero.gif)
 
-**Key Features:**
-- End-to-end initiative definition to capability announcement workflow in a single utility
-- Seamless JIRA Cloud integration with smart work item discovery
-- AI-powered content generation for multiple business contexts with the LLM of your choice
+### [The Final Shot - Interactive Photography Portfolio](https://github.com/abdullahsaghirahmad/TheFinalShotAlt)
+**Live Demo:** https://thfinalshotalt.vercel.app/
+An experimental web application that caters to the satisfaction of "discovering" vs. being "shown" content. It transforms passive image browsing into an interactive user experience through a cursor-proximity algorithm for content revelation. Performance-optimized with adaptive and real-time rendering, achieving 95+ Lighthouse score and sub-1s load times.
+![Portfolio in action](https://github.com/abdullahsaghirahmad/thfinalshotalt/blob/main/heroAlt.gif)
 
-**Key Pillars:**
-- **Workflow Acceleration:** Cut work item creation from 12+ minutes to under 3 minutes
-- **Quality Standardization**: 93% field accuracy without human intervention
-- **Knowledge Democratization**: Enable non-technical stakeholders to create perfect tickets
-- **Enterprise Adaptability**: Dynamic field discovery for any Jira configuration
-- **Context Preservation**: Maintain perfect continuity from discovery to delivery
-- **Security-First Architecture**: Local data storage with no external dependencies
-
-**Use Cases:**
-- **Product Managers**: Creates Jira work items from natural language and transforms them into executive presentation content and customer communications
-- **Engineering Managers**: Create Jira work items, quarterly updates, and feature announcements from development work
-- **Engineers**: Generate Jira work items, documentation, and stakeholder updates from story implementations
-- **Executive Teams**: Get AI-generated insights from development work for strategic planning
-
-## Technical Expertise
-
-**Product Strategy & Management**
-- Enterprise SaaS platforms and marketplace ecosystems
-- AI/ML integration and automation workflows
-- Cross-functional team leadership and stakeholder management
-- Strategic partnerships and go-to-market execution
-
-**Technology Stack**
-- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
-- **Backend**: Node.js, REST APIs, Webhook integrations
-- **Cloud & DevOps**: Vercel, AWS, CI/CD pipelines
-- **Integrations**: JIRA Cloud API, AI services, enterprise systems
-
+### [ChapterOne](https://github.com/abdullahsaghirahmad/ChapterOne)
+**Live Demo:** https://chapterone-theta.vercel.app/
+A full-stack book discovery platform built as a hands-on exercise to learn practical ML and cutting-edge user personalization.
+![ChapterOne in action](https://github.com/abdullahsaghirahmad/AutoAgile/blob/main/ChapterOneHeroGit.gif)
 
 ## Connect With Me
 
@@ -55,4 +29,4 @@ An intelligent content generation platform that transforms JIRA work items into 
 
 ---
 
-*Building the future of enterprise productivity through AI-powered product solutions.*
+*Building the future of enterprise cloud commerce and productivity through AI-powered product solutions.*

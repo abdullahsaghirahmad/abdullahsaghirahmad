@@ -1,8 +1,8 @@
 # Hi there, I'm Abdullah
 
-**Seasoned Product Manager | Subscription Commerce & Analytics**
+**Seasoned Product Manager | Agentic Commerce & Analytics**
 
-I’m a seasoned Product Manager with 6+ years in product management (and 9+ years in tech overall), building scalable B2B and B2B2C platforms and launching impactful products across subscription commerce, integrations, analytics, and retail. With a background in engineering and management, I specialize in turning complex needs into intuitive, high-leverage solutions.
+I’m a seasoned Product Manager with 10+ years in tech and product, building scalable B2B and B2B2C platforms and launching impactful products across subscription commerce, integrations, analytics, and retail. With a background in engineering and management, I specialize in turning complex needs into intuitive, high-leverage solutions.
 Currently, I’m focused on building AI-powered productivity tools and unified platform capabilities that simplify partner operations, surface data-driven insights, and deepen user engagement.
 
 ## Featured Projects

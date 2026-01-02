@@ -3,7 +3,7 @@
 **Seasoned Product Manager | Agentic Commerce & Analytics**
 
 I’m a seasoned Product Manager with 10+ years in tech and product, building scalable B2B and B2B2C platforms and launching impactful products across subscription commerce, integrations, analytics, and retail. With a background in engineering and management, I specialize in turning complex needs into intuitive, high-leverage solutions.
-Currently, I’m focused on building AI-powered productivity tools and unified platform capabilities that simplify partner operations, surface data-driven insights, and deepen user engagement.
+Currently I'm focused on bringing agentic AI into the transaction layer so commerce platforms don't just display catalogs, they actively close deals.
 
 ## Featured Projects
 
